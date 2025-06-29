@@ -43,10 +43,19 @@
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
 
+  // This dims secondary links next to the title
   a + a {
     opacity: 0.5;
   }
+
+  // Remove link styling when the title is plain text
+  &:not(:has(a)) {
+    text-decoration: none;
+    color: inherit;
+    cursor: default;
+  }
 }
+
 
 /* remove border*/
 .page__content {
