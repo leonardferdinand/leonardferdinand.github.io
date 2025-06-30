@@ -1,9 +1,9 @@
 ---
-title: "A stochastic, H. Martin. The prublis"
+title: "X. Y, X. Y and X. Y. <u>The probability etc.</u> <em>The journal of</em>"
 collection: publications
 category: manuscripts
 #permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'X. Y, X. Y and X. Y. <u>The probability etc.<\u> <em>The journal of<\em>'
+excerpt: 'X. Y, X. Y and X. Y. <u>The probability etc.</u> <em>The journal of</em>'
 #date: 2009-10-01
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
