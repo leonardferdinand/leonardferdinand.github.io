@@ -1,5 +1,5 @@
 ---
-title: "<a href='https://link.springer.com/article/10.1007/s00023-023-01350-w' target="_blank"><u>My paper</u></a>"
+title: "<a href='https://link.springer.com/article/10.1007/s00023-023-01350-w' target='_blank'><u>My paper</u></a>"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
