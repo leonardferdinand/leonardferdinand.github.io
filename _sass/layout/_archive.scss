@@ -27,34 +27,53 @@
   }
 }
 
-.archive__subtitle {
-  margin: 1.414em 0 0;
-  padding-bottom: 0.5em;
-  font-size: $type-size-5;
-  color: var(--global-text-color-light);
-  border-bottom: 1px solid var(--global-border-color);
 
-  + .list__item .archive__item-title {
-    margin-top: 0.5em;
-  }
+.archive__item-title,
+.archive__item-subtitle,
+.page__meta {
+  text-decoration: none !important;
+  color: inherit !important;
+  cursor: default !important;
 }
 
-.archive__item-title {
-  margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
-
-  // This dims secondary links next to the title
-  a + a {
-    opacity: 0.5;
-  }
-
-  // Remove link styling when the title is plain text
-  &:not(:has(a)) {
-    text-decoration: none;
-    color: inherit;
-    cursor: default;
-  }
+.archive__item-title a,
+.archive__item-subtitle a,
+.page__meta a {
+  text-decoration: none !important;
+  color: inherit !important;
+  cursor: default !important;
 }
+
+
+
+#.archive__subtitle {
+#  margin: 1.414em 0 0;
+#  padding-bottom: 0.5em;
+#  font-size: $type-size-5;
+#  color: var(--global-text-color-light);
+#  border-bottom: 1px solid var(--global-border-color);
+
+#  + .list__item .archive__item-title {
+#    margin-top: 0.5em;
+#  }
+#}
+
+#.archive__item-title {
+#  margin-bottom: 0.25em;
+#  font-family: $sans-serif-narrow;
+
+#  // This dims secondary links next to the title
+#  a + a {
+#    opacity: 0.5;
+#  }
+
+#  // Remove link styling when the title is plain text
+#  &:not(:has(a)) {
+#    text-decoration: none;
+#    color: inherit;
+#    cursor: default;
+#  }
+#}
 
 
 /* remove border*/
