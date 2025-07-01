@@ -31,8 +31,11 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+ 
+Service and leadership
+======
   
-Skills
+<!--Skills
 ======
 * Skill 1
 * Skill 2
@@ -59,6 +62,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Currently signed in to 43 different slack teams-->
