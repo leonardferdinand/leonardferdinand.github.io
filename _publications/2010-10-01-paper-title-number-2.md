@@ -1,5 +1,5 @@
 ---
-title: "<a href='https://link.springer.com/article/10.1007/s00023-023-01350-w' target='_blank'><u>My paper</u></a>"
+title: "X, X, Y. Y and Z. Z. <a href='https://link.springer.com/article/10.1007/s00023-023-01350-w' target='_blank'><u>My paper.</u></a> <a href='https://link.springer.com/article/10.1007/s00023-023-01350-w' target='_blank'><em>Ann. Henri Poincaré.</em></a> <b>25</b>: 2037–2064 (2024)."
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
