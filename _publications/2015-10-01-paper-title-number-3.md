@@ -1,14 +1,9 @@
 ---
-title: "Paper Title Number 3"
+title: " "
 collection: publications
-category: conferences
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: manuscripts
+
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+X, X, Y. Y and Z. Z. <a href='https://arxiv.org/abs/2312.15511' target='_blank'><u>My paper.</u></a> <a href='http://doi.org/10.1007/s00023-025-01620-9' target='_blank'><em>Ann. Henri Poincaré.</em></a> <b>25</b>: 2037–2064 (2024). 
+
