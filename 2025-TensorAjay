@@ -1,4 +1,20 @@
 ---
+title: " "
+collection: publications
+category: manuscripts
+order: 1
+
+---
+
+X, X, Y. Y and Z. Z. <a href='https://arxiv.org/abs/2209.09045' target='_blank'><u>My paper.</u></a> <a href='https://link.springer.com/article/10.1007/s00023-023-01350-w' target='_blank'> Accepted for publication
+in <em>Annales de l’Institut Henri Poincaré B</em></a> (2025). 
+
+
+
+
+
+<!--
+---
 title: "X, X, Y. Y and Z. Z. <a href='https://arxiv.org/abs/2209.09045' target='_blank'><u>My paper.</u></a> <a href='https://link.springer.com/article/10.1007/s00023-023-01350-w' target='_blank'><em>Ann. Henri Poincaré.</em></a> <b>25</b>: 2037–2064 (2024)."
 collection: publications
 category: manuscripts
@@ -11,4 +27,4 @@ category: manuscripts
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-I can also write here. 
+I can also write here. -->
