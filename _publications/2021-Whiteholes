@@ -2,10 +2,28 @@
 title: " "
 collection: publications
 category: manuscripts
-order: 1
+
 
 ---
 
-X, X, Y. Y and Z. Z. <a href='https://arxiv.org/abs/2312.15511' target='_blank'><em>My paper.</em></a> <a href='https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.043532' target='_blank'><em>Phys. Rev. D</em></a> <b>103</b> (2025). 
 
- 
+ <b> &#8226; Article</b>
+
+
+<br>
+
+
+
+X, X, Y. Y and Z. Z.
+
+
+<br>
+
+<em>Phys. Rev. D</em>  <b>103</b> (2025) <a href='https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.043532' target='_blank'><em>Phys. Rev. D</em></a>
+
+
+<!--
+
+<a href='https://arxiv.org/abs/2312.15511' target='_blank'><em>My paper.</em></a> <a href='https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.043532' target='_blank'><em>Phys. Rev. D</em></a> <b>103</b> (2025). 
+
+ -->
