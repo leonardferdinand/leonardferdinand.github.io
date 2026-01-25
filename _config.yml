@@ -84,17 +84,17 @@ publication_category:
  reports:
     title: 'Reports'
  other:
-    title: 'Other'
+    title: 'Other writings'
 
 
 
   
 # Vita Category - The following the list of vita categories and their headings
 vita_category:
+positions:
+    title: 'Positions' 
  education:
-    title: 'Education'  
- positions:
-    title: 'Positions'  
+    title: 'Education'   
  reports:
     title: 'Reports'
  other:
