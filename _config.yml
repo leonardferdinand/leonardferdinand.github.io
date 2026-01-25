@@ -85,6 +85,19 @@ publication_category:
     title: 'Reports'
  other:
     title: 'Other'
+    
+# Vita Category - The following the list of vita categories and their headings
+vita_category:
+ education:
+    title: 'Education'  
+ positions:
+    title: 'Positions'  
+ reports:
+    title: 'Reports'
+ other:
+    title: 'Other'
+
+    
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
