@@ -4,3 +4,7 @@ title: "Vita"
 permalink: /vita/
 author_profile: true
 ---
+
+{% for v in site.vita %}
+  {{ v.content }}
+{% endfor %}
