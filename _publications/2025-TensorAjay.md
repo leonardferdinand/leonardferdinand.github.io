@@ -7,7 +7,7 @@ order: 1
 ---
 
 
- <b> &#8226; Article</b> <br> X, X, Y. Y and Z. Z.<br> Accepted for publication in <em>Annales de l’Institut Henri Poincaré B</em>, (2025). <a href='https://arxiv.org/abs/2209.09045' target='_blank'>ArXiv</a>.
+ <b> &#8226; Article</b> <br> X, X, Y. Y and Z. Z.<br> Accepted for publication in <em>Annales de l’Institut Henri Poincaré B</em>, (2025). <a href='https://arxiv.org/abs/2306.05305' target='_blank'>ArXiv</a>.
 
 
 
