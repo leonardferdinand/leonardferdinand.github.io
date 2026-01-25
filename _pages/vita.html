@@ -2,13 +2,11 @@
 layout: archive
 title: "Vita"
 permalink: /vita/
+author_profile: true
 ---
 
-{% for category in site.vita_category %}
-  <h2>{{ category[1].title }}</h2>
-  <hr />
-  {% assign items = site.vita | where: "category", category[0] | sort: "order" %}
-  {% for v in items %}
-    {{ v.content }}
-  {% endfor %}
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
 {% endfor %}
