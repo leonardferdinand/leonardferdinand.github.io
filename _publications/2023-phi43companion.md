@@ -1,7 +1,7 @@
 ---
 title: " "
 collection: publications
-category: preprints
+category: manuscripts
 order: 3
 ---
 
