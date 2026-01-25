@@ -5,12 +5,5 @@ category: education
 
 
 ---
+<b> &#8226<b> 2018–2020 <b>MSc. in Theoretical Physics,<b> École Normale Supérieure, Paris. Grade: Trés bien (distinction)<br><b> &#8226<b> 2017–2018 <b>BSc. in Physics,<b> École Normale Supérieure, Paris. Grade: Trés bien (distinction)<br><b> &#8226<b> 2015–2017 <b>Preparatory class.<b>
 
-
- <b> &#8226;
- 18–20 MSc. in Theoretical Physics. Grade: Trés bien (distinction)
-École Normale Supérieure, Paris
-17–18 BSc. in Physics. Grade: Trés bien (distinction)
-École Normale Supérieure, Paris
-17–21 École Normale Supérieure, Paris. Rank of admission: 2nd
-15–17 Preparatory class in Physics-Chemistry
