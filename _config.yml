@@ -88,9 +88,7 @@ publication_category:
 
 
 
-collections:
-  vita:
-    output: true    
+  
 # Vita Category - The following the list of vita categories and their headings
 vita_category:
  education:
@@ -244,6 +242,9 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: true
+    permalink: /:collection/:path/
+  vita:
+    output: true  
     permalink: /:collection/:path/
 
 
