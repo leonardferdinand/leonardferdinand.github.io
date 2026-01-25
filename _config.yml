@@ -85,7 +85,12 @@ publication_category:
     title: 'Reports'
  other:
     title: 'Other'
-    
+
+
+
+collections:
+  vita:
+    output: true    
 # Vita Category - The following the list of vita categories and their headings
 vita_category:
  education:
