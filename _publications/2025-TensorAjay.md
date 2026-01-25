@@ -7,7 +7,7 @@ order: 1
 ---
 
 
- <b> &#8226; Article</b> <br> X, X, Y. Y and Z. Z.<br> Accepted for publication in <em>Annales de l’Institut Henri Poincaré B</em>, (2025). <a href='https://arxiv.org/abs/2306.05305' target='_blank'>ArXiv</a>.
+ <b> &#8226; A Stochastic Analysis Approach to Tensor Field Theories</b> <br> A. Chandra and L. F.<br> Accepted for publication in <em>Annales de l’Institut Henri Poincaré B</em>, (2025). <a href='https://arxiv.org/abs/2306.05305' target='_blank'>ArXiv</a>.
 
 
 
