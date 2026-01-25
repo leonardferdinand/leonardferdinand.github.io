@@ -2,11 +2,36 @@ a, a * {
   cursor: pointer !important;
 }
 
-/* Compact Vita spacing */
-.list__item {
-  margin-bottom: 0.15em !important;
+/* =========================
+   Compact spacing for CV style
+   Applies to: Vita, Research, Talks, Publications, Teaching
+   ========================= */
+
+/* Conteneur principal de chaque article */
+.archive__item-wrapper {
+  margin-bottom: 0.2em !important;  /* réduit l'espace entre articles */
+  padding: 0 !important;           /* enlève padding si présent */
 }
 
-.archive__item-wrapper {
-  margin-bottom: 0.2em !important;
+/* Espacement interne du texte */
+.archive__item p,
+.archive__item li {
+  margin: 0 !important;           /* enlève marges par défaut */
+  line-height: 1.2em !important;  /* un peu plus compact que 1.5 */
+}
+
+/* Titres des articles / entrées */
+.archive__item-title {
+  margin-bottom: 0.1em !important; /* espace minimal sous le titre */
+  font-size: 1em;                  /* tu peux ajuster si trop grand */
+}
+
+/* Pour les bullets */
+.archive__item b {
+  margin-right: 0.3em;             /* petit espace après le bullet */
+}
+
+/* Si tu veux encore plus compact */
+.list__item {
+  margin-bottom: 0 !important;    /* colle les articles si nécessaire */
 }
