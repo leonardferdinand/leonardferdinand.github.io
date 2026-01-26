@@ -9,11 +9,13 @@
 
 main:
 
+  - title: "Research"
+    url: /publications/
+    
   - title: "Vita"
     url: /vita/
 
-  - title: "Research"
-    url: /publications/
+  
 
  # - title: "Talks"
  #   url: /talks/    
