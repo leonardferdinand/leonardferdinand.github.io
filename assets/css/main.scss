@@ -43,3 +43,16 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
+
+/* Autorise l'adresse email à ne pas sauter de ligne */
+.sidebar a,
+.sidebar p {
+  white-space: nowrap;   // empêche le retour à la ligne
+  overflow: hidden;
+  text-overflow: ellipsis; // si trop long, tronque avec "..."
+}
+
+.sidebar {
+  width: 280px; // par exemple, plus large que le thème par défaut
+  min-width: 280px;
+}
