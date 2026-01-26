@@ -262,3 +262,9 @@
     }
   }
 }
+
+   .sidebar .author__urls li a {
+  white-space: nowrap;   // empêche le texte de passer à la ligne
+  max-width: none;       // ignore toute limite de largeur
+  overflow: visible;     // permet au texte de dépasser si nécessaire
+}
