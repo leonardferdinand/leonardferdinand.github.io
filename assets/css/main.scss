@@ -44,3 +44,16 @@
 ;
 
 
+
+.page__sidebar {
+  width: 400px !important; /* largeur plus grande */
+}
+
+.page__sidebar .author-profile,
+.page__sidebar p,
+.page__sidebar a {
+  display: block;         
+  width: 100%;            
+  white-space: normal;    
+  word-break: break-word; 
+}
