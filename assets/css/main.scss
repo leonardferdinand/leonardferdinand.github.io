@@ -44,15 +44,31 @@
 ;
 
 
+/* ======= Sidebar Customization ======= */
+
+/* Agrandir la sidebar */
 .page__sidebar {
-  width: 400px !important; /* rend la sidebar plus large */
+  width: 500px !important; /* augmente selon ton besoin */
 }
 
-.page__sidebar .author-profile,
+/* Contenu de l'auteur / profil */
+.page__sidebar .author-profile {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+/* Paragraphes et liens */
 .page__sidebar .author-profile p,
 .page__sidebar .author-profile a {
-  display: block !important;     /* empêche que les éléments restent inline */
-  width: 100% !important;        /* force à prendre toute la largeur */
-  white-space: normal !important; /* empêche le texte de forcer un retour à la ligne */
-  word-break: break-word !important; /* coupe les mots trop longs si nécessaire */
+  display: block !important;      /* prend toute la largeur */
+  max-width: none !important;     /* enlève toute limite imposée par le thème */
+  white-space: normal !important; /* texte normal, pas forcé à aller à la ligne */
+  overflow-wrap: break-word !important; /* si vraiment trop long, casse proprement */
 }
+
+/* Optionnel : ajuster la police pour le mail / texte si nécessaire */
+.page__sidebar .author-profile a {
+  font-size: 0.95em;
+  color: #0366d6; /* ou la couleur de ton thème */
+}
+
