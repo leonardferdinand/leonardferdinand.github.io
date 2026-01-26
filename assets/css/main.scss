@@ -43,3 +43,24 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
+
+/* Agrandir la sidebar */
+.sidebar.sticky {
+  width: 300px !important; /* ajuste selon ton besoin */
+}
+
+/* Contenu de l'auteur / profil */
+.sidebar.sticky .author-profile {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+/* Paragraphes et liens */
+.sidebar.sticky .author-profile p,
+.sidebar.sticky .author-profile a {
+  display: block !important;      
+  max-width: none !important;     
+  white-space: normal !important; 
+  overflow-wrap: break-word !important;
+}
+
