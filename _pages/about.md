@@ -11,6 +11,8 @@ I am a postdoctoral researcher at the Max Planck Institute for Mathematics in th
 
 From August to December 2025, I was on a leave at the Simons Laufer Mathematical Sciences Institute in Berkeley, where I was a postdoctoral member of the semester-long program  <em>Recent Trends in Stochastic Partial Differential Equations</em>.
 
+Before that, I did my PhD in mathematical physics at the Paris-Saclay University, under the co-supervision of <a href='https://annuaire.in2p3.fr/6225-7630/vincent-rivasseau' target='_blank'>Vincent Rivasseau</a> and <a href='https://sites.google.com/view/ajaychandra/home' target='_blank'>Ajay Chandra</a>.
+
 
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
