@@ -44,22 +44,3 @@
 ;
 
 
-
-/* ---- Agrandissement de la sidebar ---- */
-.layout--single .sidebar {
-  width: 350px; /* change la largeur comme tu veux */
-}
-
-.layout--single .page__content {
-  margin-left: 370px; /* largeur de la sidebar + marge */
-}
-
-/* Responsive pour écran plus petits */
-@media (max-width: 1024px) {
-  .sidebar {
-    width: auto;
-  }
-  .page__content {
-    margin-left: 0;
-  }
-}
