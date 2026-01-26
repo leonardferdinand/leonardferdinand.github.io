@@ -44,16 +44,15 @@
 ;
 
 
-
 .page__sidebar {
-  width: 400px !important; /* largeur plus grande */
+  width: 400px !important; /* rend la sidebar plus large */
 }
 
 .page__sidebar .author-profile,
-.page__sidebar p,
-.page__sidebar a {
-  display: block;         
-  width: 100%;            
-  white-space: normal;    
-  word-break: break-word; 
+.page__sidebar .author-profile p,
+.page__sidebar .author-profile a {
+  display: block !important;     /* empêche que les éléments restent inline */
+  width: 100% !important;        /* force à prendre toute la largeur */
+  white-space: normal !important; /* empêche le texte de forcer un retour à la ligne */
+  word-break: break-word !important; /* coupe les mots trop longs si nécessaire */
 }
