@@ -43,32 +43,3 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-
-/* ======= Sidebar Customization ======= */
-
-/* Agrandir la sidebar */
-.page__sidebar {
-  width: 500px !important; /* augmente selon ton besoin */
-}
-
-/* Contenu de l'auteur / profil */
-.page__sidebar .author-profile {
-  width: 100% !important;
-  max-width: none !important;
-}
-
-/* Paragraphes et liens */
-.page__sidebar .author-profile p,
-.page__sidebar .author-profile a {
-  display: block !important;      /* prend toute la largeur */
-  max-width: none !important;     /* enlève toute limite imposée par le thème */
-  white-space: normal !important; /* texte normal, pas forcé à aller à la ligne */
-  overflow-wrap: break-word !important; /* si vraiment trop long, casse proprement */
-}
-
-/* Optionnel : ajuster la police pour le mail / texte si nécessaire */
-.page__sidebar .author-profile a {
-  font-size: 0.95em;
-  color: #0366d6; /* ou la couleur de ton thème */
-}
-
