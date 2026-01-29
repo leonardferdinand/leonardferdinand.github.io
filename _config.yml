@@ -22,7 +22,7 @@ repository               : "LFerdinand1004/webpage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profil1.jpg"
+  avatar           : "profile2.jpeg"
   name             : "Your Sidebar Name" 
   bio              : "Postdoc in mathematical physics"
   location         : "Leipzig, GE"
