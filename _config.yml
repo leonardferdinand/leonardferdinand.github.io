@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Léonard Ferdinand"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "LFerdinand1004/webpage"
 author:
   # Biographic information
   avatar           : "profile2.jpeg"
-  name             : "Your Sidebar Name" 
+  name             : "Léonard Ferdinand" 
   bio              : "Postdoc in mathematical physics"
   location         : "Leipzig, GE"
   employer         : "MPI-MIS"
