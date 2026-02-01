@@ -2,6 +2,7 @@
 layout: single
 title: "About me"
 author_profile: true
+description: "Official personal website of Léonard Ferdinand, postdoctoral researcher at MPI-MIS, Leipzig. Publications, talks, teaching, and portfolio."
 redirect_from: 
   - /about/
   - /about.html
