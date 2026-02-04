@@ -268,3 +268,19 @@
   max-width: none;       // ignore toute limite de largeur
   overflow: visible;     // permet au texte de dépasser si nécessaire
 }
+
+
+
+
+
+
+.author__avatar,
+.author__content,
+.author__urls-wrapper {
+  display: block !important;
+  width: 100% !important;
+}
+
+.author__urls-wrapper {
+  margin-top: 8px;
+}
