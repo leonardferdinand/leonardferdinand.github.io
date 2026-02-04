@@ -58,20 +58,6 @@
 }
 
 
-
-
-@media screen and (max-width: 1024px) {
-  .author__avatar {
-    width: 120px !important;
-    margin: 0 auto;
-  }
-
-  .author__avatar img {
-    width: 120px !important;
-    height: 120px !important;
-    border-radius: 50%;
-    object-fit: cover;
-  }
+.author__avatar {
+  width: 120px !important;
 }
-
-
